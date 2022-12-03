@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod julien:julien _hello
+chmod vincent:staff _hello
